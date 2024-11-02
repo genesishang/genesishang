@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi, I'm Geni!
+
+🎓 Junior at Wellesley College, studying Computer Science and Biochemistry
+😄 Pronouns: she/her
+
+# 📫 How to Reach Me:
+Email: gh104@wellesley.edu
+LinkedIn: linkedin.com/in/genesishang1
 
 <!--
 **genesishang/genesishang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
