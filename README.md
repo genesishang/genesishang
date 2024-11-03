@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Geni!
 
 🎓 Junior at Wellesley College, studying Computer Science and Biochemistry
+
 😄 Pronouns: she/her
 
 # 📫 How to Reach Me:
