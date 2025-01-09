@@ -6,7 +6,7 @@
 
 # 📫 How to Reach Me:
 Email: gh104@wellesley.edu
-LinkedIn: [linkedin.com/in/genesishang1](url)
+LinkedIn: [linkedin.com/in/genesishang1]([url](https://www.linkedin.com/in/genesishang1/))
 
 <!--
 **genesishang/genesishang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
