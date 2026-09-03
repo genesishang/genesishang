@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm Geni!
 
-🎓 Senior at Wellesley College, studying Computer Science and Biochemistry
+🎓 Computer Science & Informatics PhD Student at Emory University. Previously at Wellesley College, studying Computer Science and Biochemistry.
 
 😄 Pronouns: she/her
 
 # 📫 How to Reach Me:
-Email: gh104@wellesley.edu
+Email: gmhang@emory.edu
 LinkedIn: [linkedin.com/in/genesishang1](https://www.linkedin.com/in/genesishang1/)
 
 <!--
